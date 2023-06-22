@@ -13,3 +13,4 @@ Amd Ryzen 7 3700u
 Velocidade do Processador 2.30ghz
 Resolução 1920 X 1080
 
+Testado no MacOs Ventura - Foi um total sucesso, 100% ativada a iGPU. Ainda nao resolvi a questao do SSD nao visivel.
